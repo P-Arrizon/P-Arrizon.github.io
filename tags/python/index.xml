@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Ananke</title>
-    <link>https://gohugo-theme-ananke.pages.dev/tags/python/</link>
-    <description>Recent content in Python on Ananke</description>
+    <title>Python on Pedro Arrizon</title>
+    <link>https://p-arrizon.github.io/tags/python/</link>
+    <description>Recent content in Python on Pedro Arrizon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://p-arrizon.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Numerical Methods</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</link>
+      <link>https://p-arrizon.github.io/post/chapter-1/</link>
       <pubDate>Mon, 05 Dec 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</guid>
+      <guid>https://p-arrizon.github.io/post/chapter-1/</guid>
       <description>Numerical methods are techniques used to solve mathematical problems using numerical approximations and algorithms. These methods are essential for solving problems that cannot be solved analytically or symbolically. Here are some of the most common numerical methods that are demonstrated in my GitHub:
 Root-finding methods: These are methods used to find the roots of an equation or function. Some of the common methods include the bisection method, Newton-Raphson method, and the secant method.</description>
     </item>

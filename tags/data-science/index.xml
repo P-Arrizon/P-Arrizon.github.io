@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science on Ananke</title>
-    <link>https://gohugo-theme-ananke.pages.dev/tags/data-science/</link>
-    <description>Recent content in Data Science on Ananke</description>
+    <title>Data Science on Pedro Arrizon</title>
+    <link>https://p-arrizon.github.io/tags/data-science/</link>
+    <description>Recent content in Data Science on Pedro Arrizon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://p-arrizon.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heart Failure Prediction</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</link>
+      <link>https://p-arrizon.github.io/post/chapter-2/</link>
       <pubDate>Fri, 10 Feb 2023 11:00:59 -0400</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</guid>
+      <guid>https://p-arrizon.github.io/post/chapter-2/</guid>
       <description>This GitHub repository is a Data Science Project attempting to predict Heart Failure among patients. Heart failure is a progressive condition in which the heart is unable to pump enough blood to meet the body’s oxygen demand. Cardiovascular disease causes 17.9 million deaths per year, making it the leading cause of death globally. Additionally, heart disease cost the United States $363 billion in 2016 due to health care services, medicine, and lost productivity.</description>
     </item>
     
