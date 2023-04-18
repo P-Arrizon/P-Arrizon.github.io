@@ -45,6 +45,15 @@ Root-finding methods: These are methods used to find the roots of an equation or
     </item>
     
     <item>
+      <title>Statistical Learning</title>
+      <link>https://p-arrizon.github.io/post/chapter-5/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://p-arrizon.github.io/post/chapter-5/</guid>
+      <description>This Github repository demonstrates examples of statistical learning methods.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://p-arrizon.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,8 +69,8 @@ I have a solid foundation in reservoir engineering, production optimization, and
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://p-arrizon.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required. Message </description>
+      <description>You can reach me at the following email:
+arrizon37@gmail.com</description>
     </item>
     
   </channel>

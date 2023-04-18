@@ -44,5 +44,14 @@ Root-finding methods: These are methods used to find the roots of an equation or
       <description>This Github Repository demonstrates some basic methods used in petroleum engineering.</description>
     </item>
     
+    <item>
+      <title>Statistical Learning</title>
+      <link>https://p-arrizon.github.io/post/chapter-5/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://p-arrizon.github.io/post/chapter-5/</guid>
+      <description>This Github repository demonstrates examples of statistical learning methods.</description>
+    </item>
+    
   </channel>
 </rss>
